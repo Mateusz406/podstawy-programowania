@@ -1,1 +1,6 @@
-
+print("Witaj witaj")
+print("Hahaha to działa")
+print("Jest super")
+print("Zaraz przerwa")
+print("To na pewno działa")
+print("Prosze o uwagę")
